@@ -10,4 +10,5 @@ This repository contains notes and examples relating to financial engineering to
 
 ## Core contents
 1. `options.ipynb` $\rightarrow$ CALL And PUT options, LONG and SHORT positions on each option type.
-2. 
+2. Monte Carlo simulations to simulate stock prices
+3. Black-Scholes model for options pricing
