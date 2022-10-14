@@ -11,7 +11,7 @@ This repository contains notes and examples relating to financial engineering to
 ## Core contents
 1. `options.ipynb` $\rightarrow$ CALL And PUT options, LONG and SHORT positions on each option type.
 2. `stochastic_models.ipynb` $\rightarrow$ Monte Carlo simulations to simulate stock prices
-3. `black-scholes.ipynb` $\rightarrow$ Black-Scholes model for options pricing
+3. `black_scholes.ipynb` $\rightarrow$ Black-Scholes model for options pricing
 
 ## Useful references
 1. Prof. Dr. Karl Sigman - Financial Engineering from Columbia University [notes](http://www.columbia.edu/~ks20/FE-Notes/FE-Notes-Sigman.html)
